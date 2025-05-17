@@ -1,0 +1,9 @@
+.body {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: center;
+    align-items: center;     /* Center horizontally */
+    text-align: center;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, rgb(24, 3, 129), rgb(7, 7, 187), blue);
+}
